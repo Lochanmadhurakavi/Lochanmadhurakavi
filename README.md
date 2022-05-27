@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lochanmadhurakavi
+- 👋 Hi, I’m Lochanmadhurakavi
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
