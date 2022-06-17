@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lochanmadhurakavi
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning Python, Django Framework.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Basic Project deployed https://airplanearavind.herokuapp.com/
 - 📫 How to reach me lochan.246@gmail.com
 
 <!---
