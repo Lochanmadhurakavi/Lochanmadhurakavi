@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lochanmadhurakavi
+- 👋 Hi, I’m Aravind
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning Python, Django Framework.
 - 💞️ Basic Project deployed https://airplanearavind.herokuapp.com/
